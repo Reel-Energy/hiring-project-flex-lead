@@ -10,8 +10,10 @@ Reel has a sizeable portfolio of hybrid plants with co-located solar PV and stor
 Devise a trading strategy for a 100 MW PV + 50 MW / 100 MWh BESS site with a 95 MW grid connection (both import and export to and from the grid are possible) located in DK1.
 The asset should participate in the aFRR capacity market and in the day-ahead auction.
 Your code has to output two results:
-- a price/volume matrix with the bids for participating in aFRR capacity
-- a price/volume matrix with the bids for buying and selling in the day-ahead auction, after the results of the aFRR capacity auction are known
+- a price/volume matrix with the bids for participating in aFRR capacity;
+- a price/volume matrix with the bids for buying and selling in the day-ahead auction, after the results of the aFRR capacity auction are known.
+
+We will discuss your solution (and any other ideas you did not have time to build for this exercise) in the interview. Please do not use more than three hours on this. If in doubt, prioritize business logic over code quality. Feel free to use AI as a help but be prepared to answer questions about choices made in your code and solution.
 
 ### The markets
 #### aFRR capacity
