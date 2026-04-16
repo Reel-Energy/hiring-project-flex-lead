@@ -33,9 +33,11 @@ The day-ahead auction is the main market for electricity with plenty of liquidit
 ### Assumptions
 Trading:
 - perfect foresight of spot prices 1 day ahead
+  
 BESS:
 - 100% round-trip efficiency
 - limited to 2 cycles/day. One cycle is defined as discharged energy over a given period divided by energy capacity.
+
 PV:
 - assume perfect foresight of generation
 - assume control is in place and the asset setpoint can be changed to any value between 0-95 MW with no ramping constraints
