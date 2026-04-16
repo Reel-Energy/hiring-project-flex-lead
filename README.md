@@ -3,7 +3,7 @@
 This is a coding exercise for the position of [Flexibility Trading Lead](https://reelenergy-1727862339.teamtailor.com/jobs/7492540-flexibility-trading-lead) at Reel.
 Please fork this repository and share your solved exercise to es@reel.energy and di@reel.energy.
 
-## Introduction
+### Introduction
 Reel has a sizeable portfolio of hybrid plants with co-located solar PV and storage. Our job is to maximize the earnings for these plants through optimal multi-market participation.
 
 ## The task
