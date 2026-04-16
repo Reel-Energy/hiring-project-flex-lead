@@ -22,7 +22,7 @@ The aFRR capacity market is designed to ensure that a specific volume of upward 
 - Directionality: aFRR is procured as separate upward and downward products, allowing participants to bid for one direction or both (asymmetric bidding).
 - Gate closure: 07:30 CET
   
-More information available [here](https://nordicbalancingmodel.net/wp-content/uploads/2024/12/Market-handbook-FRR-CM-Version-2.0.pdf)
+More information available [here](https://nordicbalancingmodel.net/wp-content/uploads/2024/12/Market-handbook-FRR-CM-Version-2.0.pdf).
 
 #### Day-ahead
 The day-ahead auction is the main market for electricity with plenty of liquidity.
