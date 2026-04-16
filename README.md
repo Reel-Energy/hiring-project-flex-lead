@@ -16,10 +16,12 @@ Your code has to output two results:
 ### The markets
 #### aFRR capacity
 The aFRR capacity market is designed to ensure that a specific volume of upward and downward flexibility is reserved 24 hours in advance and available for real-time activation.
+
 - Market Time Unit (MTU): The market operates with 1-hour granularity, meaning that each hour is cleared independently. It is possible to link 
 - Bid Increments: The minimum bid size is 1 MW, with a granularity of 1 MW. One can post multiple price/volume pairs in a bid for the same period
 - Directionality: aFRR is procured as separate upward and downward products, allowing participants to bid for one direction or both (asymmetric bidding).
 - Gate closure: 07:30 CET
+  
 More information available [here](https://nordicbalancingmodel.net/wp-content/uploads/2024/12/Market-handbook-FRR-CM-Version-2.0.pdf)
 
 #### Day-ahead
