@@ -48,6 +48,7 @@ PV:
 
 ### Data
 You can use any publicly available dataset of your choice to make your case more realistic. Here we suggest a few data sources, but feel free to use other ones.
+For the sources listed below, we provide helper functions in `/helpers/data.py`.
 - [Solar forecasts](https://www.energidataservice.dk/tso-electricity/Forecasts_5Min): make sure to scale them such that they could realistically represent a PV asset of the characteristics described above
 - [Day-ahead prices](https://www.energidataservice.dk/tso-electricity/DayAheadPrices)
 - [Capacity market data](https://www.energidataservice.dk/tso-electricity/AfrrReservesNordic)
