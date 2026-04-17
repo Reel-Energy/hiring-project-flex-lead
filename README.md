@@ -16,6 +16,7 @@ The asset should participate in the aFRR capacity market and in the day-ahead au
 Your code has to output two results:
 - a price/volume matrix with the bids for participating in aFRR capacity;
 - a price/volume matrix with the bids for buying and selling in the day-ahead auction, after the results of the aFRR capacity auction are known.
+
 Sign convention is positive for selling energy in the day-ahead auction (note: this is contrary to what is actually implemented at the exchange but we keep it like this to avoid confusion in this exercise). 
 Sign convention for aFRR capacity is positive for up-regulation, negative for down-regulation.
 We provide an example of the bid matrix structure for day-ahead in `/helpers/bids.py`.
